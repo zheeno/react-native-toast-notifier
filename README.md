@@ -33,6 +33,6 @@
 import RNToastNotifier from 'react-native-toast-notifier';
 
 // TODO: What to do with the module?
-RNToastNotifier;
+RNToastNotifier.show(YOUR_MESSAGE, RNToastNotifier.SHORT);
 ```
   
